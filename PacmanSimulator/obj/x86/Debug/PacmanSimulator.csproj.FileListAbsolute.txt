@@ -1,0 +1,7 @@
+c:\users\farhan ali\documents\visual studio 2010\Projects\PacmanSimulator\PacmanSimulator\bin\Debug\PacmanSimulator.exe
+c:\users\farhan ali\documents\visual studio 2010\Projects\PacmanSimulator\PacmanSimulator\bin\Debug\PacmanSimulator.pdb
+c:\users\farhan ali\documents\visual studio 2010\Projects\PacmanSimulator\PacmanSimulator\obj\x86\Debug\PacmanSimulator.Form1.resources
+c:\users\farhan ali\documents\visual studio 2010\Projects\PacmanSimulator\PacmanSimulator\obj\x86\Debug\PacmanSimulator.Properties.Resources.resources
+c:\users\farhan ali\documents\visual studio 2010\Projects\PacmanSimulator\PacmanSimulator\obj\x86\Debug\PacmanSimulator.csproj.GenerateResource.Cache
+c:\users\farhan ali\documents\visual studio 2010\Projects\PacmanSimulator\PacmanSimulator\obj\x86\Debug\PacmanSimulator.exe
+c:\users\farhan ali\documents\visual studio 2010\Projects\PacmanSimulator\PacmanSimulator\obj\x86\Debug\PacmanSimulator.pdb
